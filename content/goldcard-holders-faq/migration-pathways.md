@@ -10,6 +10,8 @@ According to NIA officials, no. They stress that this card is nonrenewable and y
  the application process again toward the end of the gold card. One way of looking at that is that
  the Foreign Special Professional program could change to the point where one no longer qualifies.
  APRC is therefore “safer” in the long term.
+sdfsdfsd
+
 
 Consider also if the program doesn’t change. For instance, if you fall ill during the term and
  can’t demonstrate your gold card 'worthiness' due to this, you’ll lose your visa when it runs
