@@ -1,6 +1,7 @@
 ---
-title: "After submitting your application"
+title: After submitting your application
 weight: 3
+published: true
 ---
 <!--- (c) Tom Fifield, licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. -->
@@ -16,6 +17,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 1. Your Gold Card will be issued.
     1. Claim it in Taiwan at the National Immigration Agency
     1. Claim it at your nearest diplomatic post
+1. dance
 
 ## How long does the application take?
 A perfect application takes 30 days, if your supporting documents are accepted the first time around.
